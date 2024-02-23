@@ -21,6 +21,6 @@
     "supportedTargets": [
         "microbit"
     ],
-    "preferredEditor": "pyprj",
+    "preferredEditor": "tsprj",
     "languageRestriction": "python-only"
 }
